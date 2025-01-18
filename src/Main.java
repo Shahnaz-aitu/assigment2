@@ -1,3 +1,4 @@
+package src;
 public class MyApplication {
     public static void main(String[] args) {
         // Create Employees and Students
